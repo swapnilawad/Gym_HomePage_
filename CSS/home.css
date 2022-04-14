@@ -2,6 +2,7 @@ body {
     margin: auto;
     padding: 0px;
     background: url("img/bg.jpg");
+    background-color: black;
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -10,10 +11,8 @@ body {
     font-weight: bold;
     
   }
-  body 
-  .headbar {
-    /* border: 2px solid white; */
-  }
+  
+ 
   .left {
     display: inline-block;
     /* border: 2px solid red; */
